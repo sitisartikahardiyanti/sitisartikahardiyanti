@@ -16,13 +16,13 @@ Analytics: Exploratory Data Analysis (EDA), Statistical Analysis, Sentiment Anal
 Analyzed user reviews to identify positive, negative, and neutral sentiments.
 Compared sentiment distributions across health applications using statistical tests.
 Identified recurring user feedback themes and opportunities for service improvement.
-#### Tools: Python, Pandas, Statistical Analysis, Tableau
-
+  #### Tools: Python, Pandas, Statistical Analysis, Tableau
 2. Indonesia Job Salary Analysis — Team Project
 Contributed to ETL processes, data validation, and exploratory data analysis.
 Analyzed salary patterns across job categories, companies, and locations.
 Developed visualizations and a Tableau dashboard to communicate findings.
-
+  #### Tools: Python, Pandas, Great Expectation, NeonDb, PostgresSQL, Statistical Analysis, Tableau
+  
 ### 🌱 Currently Learning
 Improving my skills in data analytics, dashboard development, data quality, and business intelligence.
 
