@@ -13,27 +13,35 @@ Analytics: Exploratory Data Analysis (EDA), Statistical Analysis, Sentiment Anal
 
 ### 📊 Featured Projects
 1. Health Application Review Sentiment Analysis
+   
   ● Analyzed user reviews to identify positive, negative, and neutral sentiments.
   ● Compared sentiment distributions across health applications using statistical tests.
   ● Identified recurring user feedback themes and opportunities for service improvement.
+
 **Tools: Python, Pandas, Statistical Analysis, Tableau**
 
 2. Indonesia Job Salary Analysis — Team Project
+   
   ● Contributed to ETL processes, data validation, and exploratory data analysis.
   ● Analyzed salary patterns across job categories, companies, and locations.
   ● Developed visualizations and a Tableau dashboard to communicate findings.
+
 **Tools: Python, Pandas, Great Expectation, NeonDb, PostgresSQL, Statistical Analysis, Tableau**
 
 3. ETL Lipstick Product in Sephora Website : Developed a process ETL (extract, transform and load) data product lipstick from website sephora to postgresql.
+   
   ●	Scraping data from website sephora by using lipstick as a product key.
   ●	Doing exploration data analysis and cleaning data from scratch data lipstick.
   ●	Create a database from data cleaning in postgresql.
+
 **Tools: Python, Pandas, Beautiful Soup, Postgresql, web scraping**
 
 4.	Tokopedia Web Scraping and Analysis (August 2026) Analyzed the potentiality of Tokopedia Product ‘Baju’ for dropshipping business and built an interactive dashboard to monitor business performance across the variable of sales.
+   
   ●	Cleaned, analyzed, and transformed sales data using Python, Pandas, and NumPy to identify sales prices, quantity of sales, rating, location seller and discount.
   ●	Designed an interactive Tableau dashboard to visualize KPIs, top 10 products and relation of revenue and location sellers.
   ●	Conducted exploratory data analysis (EDA) using Matplotlib and Seaborn to uncover business insights and support data-driven decision-making.
+
 **Tools: Tableau, Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn**
   
 ### 🌱 Currently Learning
